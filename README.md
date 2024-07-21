@@ -1,9 +1,9 @@
-The Report generator Project has Support of csv, excel with logging and unit testing.
+-The Report generator Project has Support of csv, excel with logging and unit testing.
 
-Run the file ReportGeneratorApplication.java for running the project
+-Run the file ReportGeneratorApplication.java for running the project
 
-There are sample Input and Reference CSV for running the project
+-There are sample Input and Reference CSV for running the project
 
-The output csv can be found inside the output folder.
+-The output csv can be found inside the output folder.
 
-Logs are created in Logs folder
+-Logs are created in Logs folder
