@@ -4,6 +4,6 @@
 
 -There are sample Input and Reference CSV for running the project
 
--The output csv can be found inside the output folder.
+-The output csv can be found inside the output folder , which is created after sending a post request with the path of both input and output files. It also supports scheduling
 
 -Logs are created in Logs folder
